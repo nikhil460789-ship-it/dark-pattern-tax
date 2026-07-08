@@ -177,6 +177,19 @@ numpy       # Statistical calculations
 
 ## 📁 Project Structure
 
+```
+dark-pattern-tax/
+│
+├── charts/
+│   ├── chart1_round_number_spike.png
+│   ├── chart2_inflation_index.png
+│   ├── chart3_phantom_savings.png
+│   ├── chart4_quality_trap.png
+│   └── chart5_harm_score.png
+├── Dark_Pattern_Tax.ipynb
+└── README.md
+```
+
 ---
 
 ## 👤 Author
