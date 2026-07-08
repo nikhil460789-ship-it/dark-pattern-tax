@@ -176,3 +176,16 @@ numpy       # Statistical calculations
 ---
 
 ## 📁 Project Structure
+
+---
+
+## 👤 Author
+
+**Nikhil Kundu**  
+Management Trainee — Business Analytics, Strategy & Growth  
+[LinkedIn](https://www.linkedin.com/in/nikhil-kundu-654b30236/) | [GitHub](https://github.com/nikhil460789-ship-it)
+
+---
+
+*Dataset sourced from Kaggle (PromptCloud). This project is for 
+portfolio and educational purposes.*
