@@ -42,6 +42,10 @@ reductions or systematically manufactured through MRP inflation.**
 | **Key Columns** | `retail_price`, `discounted_price`, `product_rating`, `product_category_tree` |
 | **Categories** | 10 major categories analysed |
 
+> **Note:** Dataset not included in this repository due to file size limits.
+> Download from the link above and place in root folder as
+> `flipkart_com-ecommerce_sample.csv` before running the notebook.
+
 ---
 
 ## 🔬 Methodology
