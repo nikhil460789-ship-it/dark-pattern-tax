@@ -87,33 +87,42 @@ composite index:
 
 ---
 
-## 📈 Charts
-
 ### Chart 1 — The Round Number Spike
-Discount percentages cluster at round numbers (20%, 30%, 40%, 50%) 
-at 1.53x the rate expected under random pricing — a statistical 
-fingerprint of engineered discounts.
+![Chart 1](charts/chart1_round_number_spike.png)
+Discount percentages cluster at round numbers (20%, 30%, 40%, 50%) at 1.53x 
+the rate expected under random pricing — a statistical fingerprint of engineered discounts.
+
+---
 
 ### Chart 2 — MRP Inflation Index
-Category-wise inflation ratios show MRP is set at 2x–2.5x the actual 
-selling price across most categories. Mobiles & Accessories (2.51x) 
-and Automotive (2.50x) lead at scale.
+![Chart 2](charts/chart2_inflation_index.png)
+Category-wise inflation ratios show MRP is set at 2x–2.5x the actual selling 
+price across most categories. Mobiles & Accessories (2.51x) and Automotive (2.50x) 
+lead at scale.
+
+---
 
 ### Chart 3 — Phantom Savings
-On average ₹857 of every displayed discount per product was never 
-real. Automotive shows the highest phantom ratio at 84% — 84 paise 
-of every ₹1 discount shown was manufactured.
+![Chart 3](charts/chart3_phantom_savings.png)
+On average ₹857 of every displayed discount per product was never real. 
+Automotive shows the highest phantom ratio at 84% — 84 paise of every 
+₹1 discount shown was manufactured.
+
+---
 
 ### Chart 4 — The Quality Trap
-Correlation between discount % and product rating: r = 0.016 — 
-effectively zero. Discount size carries no predictive power over 
-product quality. 30% of heavily discounted products fall in the 
-danger zone (high discount, low rating).
+![Chart 4](charts/chart4_quality_trap.png)
+Correlation between discount % and product rating: r = 0.016 — effectively zero. 
+Discount size carries no predictive power over product quality. 30% of heavily 
+discounted products fall in the danger zone (high discount, low rating).
+
+---
 
 ### Chart 5 — Consumer Harm Score
-A weighted composite index ranking categories by systematic deception 
-potential. Footwear (66.0), Clothing (65.4) and Mobiles & Accessories 
-(59.9) represent the highest consumer risk.
+![Chart 5](charts/chart5_harm_score.png)
+A weighted composite index ranking categories by systematic deception potential. 
+Footwear (66.0), Clothing (65.4) and Mobiles & Accessories (59.9) represent 
+the highest consumer risk.
 
 ---
 
